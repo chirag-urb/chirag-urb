@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://bharam.be">Personal Website</a> |
-  <a href="https://linkedin.com/in/chiragbharambe">LinkedIn</a> |
+  <a href="https://linkedin.com/in/chiragbharambe">LinkedIn</a>
 </p>
 
 ## 📊 Data Science

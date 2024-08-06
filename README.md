@@ -108,8 +108,7 @@ Qualified in the Graduate Aptitude Test in Engineering for Computer Science
 
 ### Bachelor of Engineering in Computer Science (2015-2019)
 MCT's RGIT, Mumbai University, Versova, Mumbai
-
-Publication: Designing a Neural Network to Train a Bot to Traverse Through an Arbitrary Course. ISSN(e): 2321-2063, Volume 7, Issue 7
+<br>Publication: Designing a Neural Network to Train a Bot to Traverse Through an Arbitrary Course. ISSN(e): 2321-2063, Volume 7, Issue 7
 
 ---
 

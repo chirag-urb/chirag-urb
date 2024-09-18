@@ -81,7 +81,7 @@ I like to dive deep into whatever topic I'm working on, always striving to under
 ---
 ## Professional Experience
 
-### Freelance Consultant (Mar 2020 - Aug 2021)
+### Freelance Consultant (Sept 2019 - Aug 2021)
 Mira-Bhayander, India
 
 - **Digital Management & Marketing**
@@ -102,9 +102,6 @@ Mira-Bhayander, India
 
 ### Masters in Digital Management (2021-2023)
 Hochschule Fresenius, Cologne
-
-### GATE CSE Qualification (2020)
-Qualified in the Graduate Aptitude Test in Engineering for Computer Science
 
 ### Bachelor of Engineering in Computer Science (2015-2019)
 MCT's RGIT, Mumbai University, Versova, Mumbai

@@ -1,7 +1,7 @@
 # Chirag Bharambe
-📫 Contact: chirag@bharambe.de
+📫 Contact: chirag@bharambe.dev
 
-[![Personal Website](https://img.shields.io/badge/Website-bharam.be-blue?style=flat-square&logo=google-chrome)](https://bharam.be)
+[![Personal Website](https://img.shields.io/badge/Website-bharam.be-blue?style=flat-square&logo=google-chrome)](https://bharambe.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chiragbharambe-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chiragbharambe)
 
 ## About Me

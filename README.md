@@ -6,7 +6,7 @@
 
 ## About Me
 
-I like to dive deep into whatever topic I'm working on, always striving to understand the intricacies and nuances of each project.
+I like to dive deep into whatever topic I'm working on, always striving to understand the intricacies and nuances of each project. With 12 years as a Linux enthusiast and hands-on experience managing personal infrastructure, I bring a strong foundation in systems and technology.
 
 ## Projects
 
@@ -34,6 +34,13 @@ I like to dive deep into whatever topic I'm working on, always striving to under
 - Developed predictive models to forecast future trends in urban living expenses
 
 ## 🖥️ Linux/Server
+
+### Technical Experience
+🐧 **Systems & Infrastructure**
+- Personal Server Administration (1.5 years)
+- 12+ years of Linux ecosystem expertise
+- Self-hosted infrastructure experimentation and management
+- 8 years of archlinux
 
 ### 💾 Remote Storage Optimization
 - Creating a secure program to optimize video and PDF files locally and remotely

@@ -38,7 +38,7 @@ I like to dive deep into whatever topic I'm working on, always striving to under
 ### Technical Experience
 🐧 **Systems & Infrastructure**
 - Personal Server Administration (1.5 years)
-- 12+ years of Linux ecosystem expertise
+- 13+ years of Linux ecosystem expertise
 - Self-hosted infrastructure experimentation and management
 - 8 years of archlinux
 

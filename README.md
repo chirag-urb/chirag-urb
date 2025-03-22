@@ -86,35 +86,6 @@ I like to dive deep into whatever topic I'm working on, always striving to under
 - Implemented dynamic layouts for versatile content presentation
 - Achieved full functionality in under 200 lines of code, emphasizing efficiency and simplicity
 ---
-## Professional Experience
-
-### Freelance Consultant (Sept 2019 - Aug 2021)
-Mira-Bhayander, India
-
-- **Digital Management & Marketing**
-  - Led digital transformation initiatives, resulting in a 200% increase in customer base
-  - Optimized online profiles, boosting SEO and traffic
-  - Implemented targeted campaigns to drive customer acquisition
-
-- **Operational Management**
-  - Matched vendor needs with resources for efficient project execution
-  - Created engaging marketing content to enhance brand awareness
-
-- **Math Tutoring**
-  - Developed tailored curricula to meet individual student needs
-  - Customized teaching methods to improve student performance
-
----
-# Education
-
-### Masters in Digital Management (2021-2023)
-Hochschule Fresenius, Cologne
-
-### Bachelor of Engineering in Computer Science (2015-2019)
-MCT's RGIT, Mumbai University, Versova, Mumbai
-<br>Publication: Designing a Neural Network to Train a Bot to Traverse Through an Arbitrary Course. ISSN(e): 2321-2063, Volume 7, Issue 7
-
----
 
 
 <p align="center">
